@@ -7,7 +7,6 @@ for (var i = 0; i < 9; i++) {
 	}
 }
 
-
 // created a 2d array for storing the response revied from the API
 var board = [[], [], [], [], [], [], [], [], []]
 
